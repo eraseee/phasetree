@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4dee055c-f511-47bb-8d67-7c10c648863e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754422255194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update gitgnore">
+      <option name="closed" value="true" />
+      <created>1754423017099</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754423017099</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +159,8 @@
     <MESSAGE value="commiting things to move to main" />
     <MESSAGE value="Terraform files added" />
     <MESSAGE value="Readme file, and a few attempts at fixing errors on deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme file, and a few attempts at fixing errors on deployment" />
+    <MESSAGE value="Update gitgnore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitgnore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
