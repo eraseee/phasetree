@@ -128,7 +128,7 @@ resource "aws_eks_fargate_profile" "fargate_profile" {
 
 //IAM 
 resource "aws_iam_group" "developers" {
-  name = "developers"
+  name = "mathiasGroup"
   path = "/users/"
 }
 

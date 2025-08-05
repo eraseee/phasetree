@@ -48,6 +48,6 @@ locals {
     required_tags = {
       Creator     = "mathias"
       Project     = "iac-task"
-      Environment = var.Environment[var.Env]
+      #Environment = var.Environment[var.Env]
   }
 }
